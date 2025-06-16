@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Python dependency files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# dotenv / secrets
+.env
+*.env
+
+# Google credentials / tokens
+credentials.json
+*.pem
+*.key
+*.p12
+
+# Cache and coverage
+.cache/
+coverage.xml
+htmlcov/
+*.cover
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pydantic compiled
+__pydantic__/
+
+# Optional: telegram session files
+*.session
